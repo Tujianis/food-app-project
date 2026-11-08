@@ -14,7 +14,7 @@
   <main class="container" style="max-width: 600px;">
     <h2>Update Your Review</h2>
     
-    <form action="reviews.php" method="POST" style="margin-top: 1.5rem;">
+    <form action="myreviews.php" method="POST" style="margin-top: 1.5rem;">
       <div class="form-group">
         <label for="foodItem">Food Item</label>
         <input type="text" id="foodItem" value="Garlic Shrimp - Island Grill" readonly style="background-color: #eee;">

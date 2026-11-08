@@ -14,7 +14,7 @@
   <main class="container" style="max-width: 600px;">
     <h2>Write a Review</h2>
     
-    <form action="reviews.php" method="POST" style="margin-top: 1.5rem;">
+    <form action="food-detail.php" method="POST" style="margin-top: 1.5rem;">
         
     <div class="form-group">
         <label for="restName">Restaurant</label>

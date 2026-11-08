@@ -14,7 +14,7 @@
   <main class="container" style="max-width: 600px;">
     <h2>Add New Food Item</h2>
     
-    <form action="food-items.php" method="POST" enctype="multipart/form-data" style="margin-top: 1.5rem;">
+    <form action="food-item.php" method="POST" enctype="multipart/form-data" style="margin-top: 1.5rem;">
       <div class="form-group">
         <label for="foodName">Food Name</label>
         <input type="text" id="foodName" name="food_name" placeholder="e.g. Garlic Shrimp" required>
